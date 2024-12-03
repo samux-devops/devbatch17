@@ -1,1 +1,2 @@
 this is first line of code for file 2
+hi  this line should not go
